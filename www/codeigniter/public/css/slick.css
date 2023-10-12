@@ -1,0 +1,228 @@
+/* Slider */
+.slick-slider {
+	position: relative;
+	display: block;
+	box-sizing: border-box;
+	user-select: none;
+	-webkit-touch-callout: none;
+	-khtml-user-select: none;
+	-ms-touch-action: pan-y;
+	touch-action: pan-y;
+	-webkit-tap-highlight-color: transparent;
+}
+.slick-slider * {
+	outline:none;
+}
+.slick-list {
+	position: relative;
+	display: block;
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+.slick-list:focus {
+	outline: none;
+}
+.slick-list.dragging {
+	cursor: pointer;
+	cursor: hand;
+}
+.slick-slider .slick-track, .slick-slider .slick-list {
+	-webkit-transform: translate3d(0, 0, 0);
+	-moz-transform: translate3d(0, 0, 0);
+	-ms-transform: translate3d(0, 0, 0);
+	-o-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+}
+.slick-track {
+	position: relative;
+	top: 0;
+	left: 0;
+	display: block;
+}
+.slick-track:before, .slick-track:after {
+	display: table;
+	content: '';
+}
+.slick-track:after {
+	clear: both;
+}
+.slick-loading .slick-track {
+	visibility: hidden;
+}
+.slick-slide {
+	display: none;
+	float: left;
+	height: 100%;
+	min-height: 1px;
+}
+[dir='rtl'] .slick-slide {
+	float: right;
+}
+.slick-slide img {
+	display: block;
+}
+.slick-slide.slick-loading img {
+	display: none;
+}
+.slick-slide.dragging img {
+	pointer-events: none;
+}
+.slick-initialized .slick-slide {
+	display: block;
+}
+.slick-loading .slick-slide {
+	visibility: hidden;
+}
+.slick-vertical .slick-slide {
+	display: block;
+	height: auto;
+	border: 1px solid transparent;
+}
+.slick-arrow.slick-hidden {
+	display: none;
+}
+
+/*Arrows*/
+.slick-arrow, .slick-arrow::before, .slick-arrow::after, .slick-dots {
+ display:block;
+ position:absolute;
+ box-sizing:border-box;
+}
+.slick-arrow {
+	top:50%;
+	transform:translate(0%, -50%);
+	z-index:5;
+	text-align:left;
+	text-indent:-9999px;
+	width:22px;
+	height:14px;
+	border:none;
+	outline:none;
+	background:none;
+}
+.slick-prev {
+	left:20px;
+}
+.slick-next {
+	right:20px;
+}
+ .slick-arrow::before, .slick-arrow::after {
+ content:'';
+}
+ .slick-arrow::before {
+ top:50%;
+ width:100%;
+ height:1px;
+ background:#164970;
+ transform:translate(0%, -50%);
+ transition:width 0.25s ease, left 0.25s ease, right 0.25s ease;
+}
+ .slick-prev::before {
+ left:0px;
+}
+.slick-next::before {
+ right:0px;
+}
+.slick-arrow:hover::before {
+ width:120%;
+}
+.slick-prev:hover::before {
+ left:15%;
+}
+.slick-next:hover::before {
+ right:15%;
+}
+ .slick-arrow::after {
+ width: 11px;
+height: 11px;
+transform: translate(0%, -50%) rotate(45deg);
+top: 50%;
+transform-origin: center center;
+transition:width 0.25s ease, height 0.25s ease;
+}
+.slick-arrow:hover::after {
+ width:16px;
+ height:16px;
+}
+ .slick-prev::after {
+ left:1px;
+ border-left:1px solid #164970;
+ border-bottom:1px solid #164970;
+}
+.slick-next::after {
+ right:1px;
+ border-top:1px solid #164970;
+ border-right:1px solid #164970;
+}
+
+/*Dots*/
+.slick-dots {
+	bottom: -15px;
+	letter-spacing:0rem;
+	font-size:0rem;
+	width: 90%;
+	text-align:center;
+	left:50%;
+	transform:translate(-50%, 0%);
+	z-index:5;
+	line-height: 0rem;
+}
+.slick-dots li {
+	display:inline-block;
+	vertical-align:middle;
+	margin: 0px 5px;
+}
+.slick-dots li button {
+	display:block;
+	margin:0px;
+	text-align:left;
+	text-indent:-9999px;
+	box-sizing:border-box;
+	background:none;
+	line-height:1rem;
+	font-size:1rem;
+	outline:none;
+	border:1px solid #8e8e8e;
+	width:7px;
+	height:7px;
+	background: none;
+	border-radius:50%;
+	cursor:pointer;
+	transition:background-color 0.5s ease;
+}
+.slick-dots li button:hover, .slick-dots li.slick-active button {
+	background:#8e8e8e;
+}
+
+/*Dots*/
+.slick-download {
+	bottom: -30px;
+	letter-spacing:0rem;
+	font-size:0rem;
+	text-align:center;
+	left:50%;
+	transform:translate(-50%, 0%);
+	z-index:5;
+	line-height: 0rem;
+}
+
+
+@media (max-width:767px) {
+    .slick-arrow {
+        border-top-width: 8px;
+        border-bottom-width: 8px;
+    }
+    .slick-prev {
+        border-right-width: 8px;
+    }
+    .slick-next {
+        border-left-width: 8px;
+    }
+    .slick-contarrows .slick-prev {
+        left: 10px;
+    }
+    .slick-contarrows .slick-next {
+        right: 10px;
+    }
+}

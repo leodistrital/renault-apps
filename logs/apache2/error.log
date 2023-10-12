@@ -1,0 +1,3956 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.4. Set the 'ServerName' directive globally to suppress this message
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 5 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 6 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 7 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 8 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 9 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 10 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 12 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 13 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 14 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 15 in Unknown on line 0
+PHP Deprecated:  Comments starting with '#' are deprecated in /usr/local/etc/php/php.ini on line 16 in Unknown on line 0
+[Tue Jan 24 00:29:07.709433 2023] [mpm_prefork:notice] [pid 7] AH00163: Apache/2.4.25 (Debian) PHP/5.6.40 OpenSSL/1.0.2u configured -- resuming normal operations
+[Tue Jan 24 00:29:07.710607 2023] [core:notice] [pid 7] AH00094: Command line: '/usr/sbin/apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 24 22:04:07.072276 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Jan 24 22:04:07.072636 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Jan 24 22:04:36.402531 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 24 22:05:04.314677 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Jan 24 22:05:04.315423 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Jan 24 22:05:26.910371 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 24 22:06:53.989223 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Jan 24 22:06:53.989935 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Jan 24 22:07:16.709374 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 24 22:08:20.521745 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Jan 24 22:08:20.522556 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Jan 25 01:35:46.897648 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Jan 25 15:55:20.578567 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Jan 25 15:55:20.580466 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Jan 26 00:41:11.401577 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 26 15:43:54.254569 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Jan 26 15:43:54.257218 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Jan 26 15:58:43.939610 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.5. Set the 'ServerName' directive globally to suppress this message
+[Thu Jan 26 16:24:23.724548 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Jan 26 16:24:23.725797 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 27 19:15:42.949221 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Jan 27 19:15:42.950162 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Jan 27 21:30:33.933549 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Jan 27 21:41:06.330452 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Jan 27 21:41:06.331083 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Jan 27 22:45:13.188497 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Sat Jan 28 21:57:45.484454 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Sat Jan 28 21:57:45.485314 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jan 29 00:43:57.678100 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sun Jan 29 00:44:43.894482 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Sun Jan 29 00:44:43.895168 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sun Jan 29 00:48:13.614976 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 30 15:46:29.365284 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Jan 30 15:46:29.366516 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Jan 31 16:31:41.007676 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Jan 31 16:31:41.008133 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Feb 01 01:56:38.719087 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 01 17:25:44.562334 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Feb 01 17:25:44.563172 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 06 16:22:07.572337 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Feb 06 16:22:07.572946 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 07 15:39:36.172001 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Feb 07 15:39:36.172704 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 08 16:07:00.733067 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Feb 08 16:07:00.740677 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Feb 09 14:59:35.798861 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Feb 09 14:59:35.799933 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Feb 10 14:35:20.142526 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Feb 10 14:35:20.143365 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 13 21:23:56.093432 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Feb 13 21:23:56.094182 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Feb 14 01:40:18.477504 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Feb 14 15:45:28.372962 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Feb 14 15:45:28.373884 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd8870)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 16 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 10 ms for 1 (transfer 0xaaaac2dd8870)
+* Expire in 10 ms for 1 (transfer 0xaaaac2dd8870)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149983 ms for 3 (transfer 0xaaaac2dd8870)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dd8870)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dd8870)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0j3_9uNJrOmkPBvw2L-2AVERfw_LKNwT6pNUS-m7fHXcQ_XJ7jGh9pxY5FKnj3oAtG11pe1OxV_99vTUsq8_2Ee7WkSnMCbFFe9L1gAVokvsiIWFMv_rsmL8RM8EFpQ2gApXU9
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1132
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:29:57 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 607ff865b9fc4c24a1ba77d63c05d9e6
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd8870)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2da39b0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dd8870)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0j3_9uNJrOmkPBvw2L-2AVERfw_LKNwT6pNUS-m7fHXcQ_XJ7jGh9pxY5FKnj3oAtG11pe1OxV_99vTUsq8_2Ee7WkSnMCbFFe9L1gAVokvsiIWFMv_rsmL8RM8EFpQ2gApXU9
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1073
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:29:58 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 43328df1a4a74bae94248a0c0388be0a
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dad530)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dad530)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dad530)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dad530)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dad530)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dad530)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dad530)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149989 ms for 3 (transfer 0xaaaac2dad530)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dad530)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dad530)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2d4eKt51l6LUZyzGYUgC5NmFOlEnJuPnj90-xyFY5SBscPqtYX3B2JtUiBdhyLH2VSTzOoR9edlOA5CMooy5wFjOffMnUfAzHyaTG8FAKWPpA9CJWGbGPnxXxEX0SJJY3Ggde9
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1070
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:30:16 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 61970d876bcf4b49bf91614c06ad1b5f
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dad530)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db8490 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dad530)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2d4eKt51l6LUZyzGYUgC5NmFOlEnJuPnj90-xyFY5SBscPqtYX3B2JtUiBdhyLH2VSTzOoR9edlOA5CMooy5wFjOffMnUfAzHyaTG8FAKWPpA9CJWGbGPnxXxEX0SJJY3Ggde9
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 892
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:30:17 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 04a7560afa264f6e8a21027697ca53eb
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dca2e0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dca2e0)
+* Expire in 0 ms for 1 (transfer 0xaaaac2dca2e0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dca2e0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dca2e0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dca2e0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dca2e0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149993 ms for 3 (transfer 0xaaaac2dca2e0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dca2e0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dca2e0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2VuMZKp193Dn9nge1vM3mcrel3lDqvbJiqeqN5uLSj-qjEyeEaXJf3CfV0KK2qnyfx3znzg_U7KEga3GjOCcYiQGYa3bexFxL6gXupxnpt3syeXlFtiUazqrrkDNrvIV63VY0L
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1034
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:30:33 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 01c76006357a4928bd9422d062ef0f7e
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dca2e0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dd2160 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dca2e0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2VuMZKp193Dn9nge1vM3mcrel3lDqvbJiqeqN5uLSj-qjEyeEaXJf3CfV0KK2qnyfx3znzg_U7KEga3GjOCcYiQGYa3bexFxL6gXupxnpt3syeXlFtiUazqrrkDNrvIV63VY0L
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1323
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:30:35 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: d714dadff8034948bc23b2d846cbf8a7
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dce770)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dce770)
+* Expire in 0 ms for 1 (transfer 0xaaaac2dce770)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dce770)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dce770)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dce770)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dce770)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149992 ms for 3 (transfer 0xaaaac2dce770)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dce770)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dce770)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY20skeb08aRrpWnNWssHVeXcoyrKrcHEWHjh0-qXJrYi75YaRs-DY15H2-pDlRQ-lXFWYUMSMCl80BFSB44oY8VxdrhiMuCmA6ImeXE5ApT7aQLp5aG_3JOBw8RLX-Jw_FmPzih
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1150
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:31:02 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: e48dfc1b2bf1493d88aa4e4f64cb6f67
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dce770)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dbf590 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dce770)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY20skeb08aRrpWnNWssHVeXcoyrKrcHEWHjh0-qXJrYi75YaRs-DY15H2-pDlRQ-lXFWYUMSMCl80BFSB44oY8VxdrhiMuCmA6ImeXE5ApT7aQLp5aG_3JOBw8RLX-Jw_FmPzih
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1307
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:31:03 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 1c86411413804f3892977f82cc97c493
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2ddabe0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2ddabe0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2ddabe0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2ddabe0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149995 ms for 3 (transfer 0xaaaac2ddabe0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2ddabe0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2ddabe0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY31j3hYJkH1ilDHfWQP0JBWubAcWTFK1EgB9tX5ZJwEO4UBqsxdM6jC6gO6sXwo36gmYH9VvPMhaqjvh0Kxs8VIIkt4b3lLVrGz-16tOwbrtcQt0JpjRuQXaCjREtZ1AkKMYdMl
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1009
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:31:14 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 4e7287c427e24c60a2377af8f05c8582
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2ddabe0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db63f0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2ddabe0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY31j3hYJkH1ilDHfWQP0JBWubAcWTFK1EgB9tX5ZJwEO4UBqsxdM6jC6gO6sXwo36gmYH9VvPMhaqjvh0Kxs8VIIkt4b3lLVrGz-16tOwbrtcQt0JpjRuQXaCjREtZ1AkKMYdMl
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1445
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:31:15 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 79e0d9769ed343cd96f03abad5102a0c
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2daf650)
+* Expire in 1 ms for 1 (transfer 0xaaaac2daf650)
+* Expire in 2 ms for 1 (transfer 0xaaaac2daf650)
+* Expire in 2 ms for 1 (transfer 0xaaaac2daf650)
+* Expire in 4 ms for 1 (transfer 0xaaaac2daf650)
+* Expire in 5 ms for 1 (transfer 0xaaaac2daf650)
+* Expire in 6 ms for 1 (transfer 0xaaaac2daf650)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149989 ms for 3 (transfer 0xaaaac2daf650)
+* Expire in 200 ms for 4 (transfer 0xaaaac2daf650)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2daf650)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1LpUnGJF9T2syeG6Ma14DL_unysdPycuiok3-kLnig39Kbklbb2y0k4gZMNSbYyzrZ-GU_bH7GVAVOSNI5f4EtTcCb76BX5-G-3oHgByUx7aX71YA9by7jJc7jJGJ4BFRnomlG
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1477
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:31:43 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: e33c6efd878a4496bb9dd2494bfe9e1c
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2daf650)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2d87ec0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2daf650)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1LpUnGJF9T2syeG6Ma14DL_unysdPycuiok3-kLnig39Kbklbb2y0k4gZMNSbYyzrZ-GU_bH7GVAVOSNI5f4EtTcCb76BX5-G-3oHgByUx7aX71YA9by7jJc7jJGJ4BFRnomlG
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1182
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:31:44 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: fa25291fbdc14307bb94f34a4f03da0e
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd7330)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd7330)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd7330)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd7330)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd7330)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dd7330)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dd7330)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149989 ms for 3 (transfer 0xaaaac2dd7330)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dd7330)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dd7330)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2DzYoASc2f_qWAK76DM7qtsqppXvm5uhwJ4olhCgOga_6KT9VpMinsKH7RvIbw7lTFFNZ98MNxwAEOoZzuko3GtsPT13fcWtCJtyzcoBziN1sig8jD9TT7_PHcZ3QjabhyNiEi
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1510
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:32:36 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: e42180c0630a46a58fe059464450c070
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd7330)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dc58a0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dd7330)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2DzYoASc2f_qWAK76DM7qtsqppXvm5uhwJ4olhCgOga_6KT9VpMinsKH7RvIbw7lTFFNZ98MNxwAEOoZzuko3GtsPT13fcWtCJtyzcoBziN1sig8jD9TT7_PHcZ3QjabhyNiEi
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1043
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:32:38 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 2a4c91f0b27947d89adea9c89edd96b8
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2de7700)
+* Expire in 1 ms for 1 (transfer 0xaaaac2de7700)
+* Expire in 0 ms for 1 (transfer 0xaaaac2de7700)
+* Expire in 2 ms for 1 (transfer 0xaaaac2de7700)
+* Expire in 2 ms for 1 (transfer 0xaaaac2de7700)
+* Expire in 3 ms for 1 (transfer 0xaaaac2de7700)
+* Expire in 3 ms for 1 (transfer 0xaaaac2de7700)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149993 ms for 3 (transfer 0xaaaac2de7700)
+* Expire in 200 ms for 4 (transfer 0xaaaac2de7700)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2de7700)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2iYzj6xEOEUJXKQ45yV3mr3U9huxtOYhDMRvx7CR7HriV1Rl87ovriZ9-0qWpLlFCkjQgVOKHhD-epbgLq9u9p50tyC3S9F0oS4EoU8YHdTZq2gmWYmcyRxhJ7Iq6VAWUALDdh
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1265
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:33:03 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 5fb97f6aa53a468cbaa31757c5114b7d
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2de7700)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2de4e80 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2de7700)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2iYzj6xEOEUJXKQ45yV3mr3U9huxtOYhDMRvx7CR7HriV1Rl87ovriZ9-0qWpLlFCkjQgVOKHhD-epbgLq9u9p50tyC3S9F0oS4EoU8YHdTZq2gmWYmcyRxhJ7Iq6VAWUALDdh
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1260
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:33:04 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 15e607495c8846fc81394f14b359a727
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db4120)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 4 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 3 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 4 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 8 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 5 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 6 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 8 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 7 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 8 ms for 1 (transfer 0xaaaac2db4120)
+* Expire in 10 ms for 1 (transfer 0xaaaac2db4120)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149983 ms for 3 (transfer 0xaaaac2db4120)
+* Expire in 200 ms for 4 (transfer 0xaaaac2db4120)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2db4120)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY39y4ytGVGYszHzg73f1TNqs2WFpC4qgKGe-PVlqSZ7KfAEDIWEt7ORK_hU8DEnc8NNobva5PS6yB7yInruK7DBmzBPQcmb2uJMM4jtJOGZduhbRp8gYl4Yt0GKOHQMMXdpT6ui
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1306
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:34:56 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 01db11cb97f64b118cc26645b9d4b12e
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db4120)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2da4e60 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2db4120)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY39y4ytGVGYszHzg73f1TNqs2WFpC4qgKGe-PVlqSZ7KfAEDIWEt7ORK_hU8DEnc8NNobva5PS6yB7yInruK7DBmzBPQcmb2uJMM4jtJOGZduhbRp8gYl4Yt0GKOHQMMXdpT6ui
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 949
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:34:57 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 21424311e75949778205c9d6bf9f4626
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dcac60)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 0 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dcac60)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dcac60)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149986 ms for 3 (transfer 0xaaaac2dcac60)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dcac60)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dcac60)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3gpWn01ussslUUKgboc3NWPwquRRdjAyoNGS7m46ANHhvz_o-hCbw4DiPSM7ZrWKsGea3rsqY4y-pQ97xwfoHrUTZv3OHjPSIagpa61YIwEFe9Y0Zlw7N2ejD0GQcpBLiMHnOz
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1238
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:35:32 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 449d8b71b1cb4f7c966b29bcc2931ba4
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dcac60)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dbd870 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dcac60)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3gpWn01ussslUUKgboc3NWPwquRRdjAyoNGS7m46ANHhvz_o-hCbw4DiPSM7ZrWKsGea3rsqY4y-pQ97xwfoHrUTZv3OHjPSIagpa61YIwEFe9Y0Zlw7N2ejD0GQcpBLiMHnOz
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1168
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:35:33 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 7dc3bea2fc5641ecb6a3a3d6ca1dca17
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd6bc0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dd6bc0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd6bc0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149987 ms for 3 (transfer 0xaaaac2dd6bc0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dd6bc0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dd6bc0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1JnylnsLFUQzDhfjtwKbzn_2wnivxrzzEC5QIIZPzNp6mIU5SBLu0LCqSs_4_SOLrx9ybNdVbzKEcmkluuHm-m6zb3UG2Wf9x2dkcT1Rd7fGryfxoW6aOugUiqOHwie8sNUD2L
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1369
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:38:30 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: c81d63af2f054b82acd07d2f52e04e95
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd6bc0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dd96e0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dd6bc0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1JnylnsLFUQzDhfjtwKbzn_2wnivxrzzEC5QIIZPzNp6mIU5SBLu0LCqSs_4_SOLrx9ybNdVbzKEcmkluuHm-m6zb3UG2Wf9x2dkcT1Rd7fGryfxoW6aOugUiqOHwie8sNUD2L
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1338
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:38:31 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: fe25eb2294234e70aef4c41ecf3d56c2
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd8d70)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd8d70)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd8d70)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149986 ms for 3 (transfer 0xaaaac2dd8d70)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dd8d70)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dd8d70)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1wCGtxwy-4BpOahuHMxXV6qrcSmiEENUt0m36aNjeGGq1NHM-Ui7jyWq3oxj_Xd77D35650XZQDTIC4lBNHdmp8Qk9etvUNXvbteiTXXhId9yF0nNCrMa1ywnrtC_UNPM8Pxw1
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1365
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:39:04 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: d7103f758ae34207a523cc0466a39000
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd8d70)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dc5420 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dd8d70)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1wCGtxwy-4BpOahuHMxXV6qrcSmiEENUt0m36aNjeGGq1NHM-Ui7jyWq3oxj_Xd77D35650XZQDTIC4lBNHdmp8Qk9etvUNXvbteiTXXhId9yF0nNCrMa1ywnrtC_UNPM8Pxw1
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1166
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:39:06 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: fb388c00e5794ced84f9653f6dd2d964
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbe9c0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 0 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 12 ms for 1 (transfer 0xaaaac2dbe9c0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149980 ms for 3 (transfer 0xaaaac2dbe9c0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dbe9c0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dbe9c0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2tPP4D6fWlZ65TvEzsY0iq6rmuoltvv5r6xVmxN9WUBKjw2FqAQObSNJAK8nWb1DOSRCflYIfDApyKmqh1GoQgB4s9dkroQ34s96-9Og2TSRzPW0mDFFAH1Ze-mWR0TrFC3ULq
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1268
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:43:35 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 88728d49bd844a79ac362aa6e30ad43d
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbe9c0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dc0aa0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dbe9c0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2tPP4D6fWlZ65TvEzsY0iq6rmuoltvv5r6xVmxN9WUBKjw2FqAQObSNJAK8nWb1DOSRCflYIfDApyKmqh1GoQgB4s9dkroQ34s96-9Og2TSRzPW0mDFFAH1Ze-mWR0TrFC3ULq
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1313
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:43:37 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: d95b2db8c8b94fe8aa615527156dec51
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db96e0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2db96e0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149993 ms for 3 (transfer 0xaaaac2db96e0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2db96e0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2db96e0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1vyFySAB79RSb3bDchBbxFom2qrAu4srGnmd_wOnFdfekJvYh7q0TcC78_x9rwOdeu7clb3Hcc67fMuq-2SNA4IsEC_vl9AASwOT34cSRps3A6ksoV0pkg59gLDLEDVxvpY04k
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1152
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:43:45 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: d117991624644791baf5e88da3092194
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db96e0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2d9bd00 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2db96e0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1vyFySAB79RSb3bDchBbxFom2qrAu4srGnmd_wOnFdfekJvYh7q0TcC78_x9rwOdeu7clb3Hcc67fMuq-2SNA4IsEC_vl9AASwOT34cSRps3A6ksoV0pkg59gLDLEDVxvpY04k
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1120
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:43:46 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 94b67d24e5f746a8934270df921e8281
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db4310)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db4310)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db4310)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db4310)
+* Expire in 3 ms for 1 (transfer 0xaaaac2db4310)
+* Expire in 4 ms for 1 (transfer 0xaaaac2db4310)
+* Expire in 5 ms for 1 (transfer 0xaaaac2db4310)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149990 ms for 3 (transfer 0xaaaac2db4310)
+* Expire in 200 ms for 4 (transfer 0xaaaac2db4310)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2db4310)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2w9Ym05kgNRU9Vnj3TWRkk5JS7DzSHdWP2Ua49ULMrABxHo81lDlpY9jWftKR-naMUl6WVigIux3in1xsDAcSs8zb2sYweEBT8zEkyRf5yunS0DKY1YgFJMEMyB31oS_j_1n0w
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1926
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:43:56 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 20c845c2f46f43a48f6fe041816279f7
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db4310)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db2f30 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2db4310)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2w9Ym05kgNRU9Vnj3TWRkk5JS7DzSHdWP2Ua49ULMrABxHo81lDlpY9jWftKR-naMUl6WVigIux3in1xsDAcSs8zb2sYweEBT8zEkyRf5yunS0DKY1YgFJMEMyB31oS_j_1n0w
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1420
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:43:57 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 6658bdd87dac44ee82f5792eb8ca2146
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc7d50)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dc7d50)
+* Expire in 10 ms for 1 (transfer 0xaaaac2dc7d50)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149984 ms for 3 (transfer 0xaaaac2dc7d50)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dc7d50)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dc7d50)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3Oy1s-5cHL-Gb9mqjfVmMKceCDZGXdSNccORcadiep7IYiA-pyk4MHGMi9rczCJYK6plU9NRBYl81xlxbpn-IHNnK-rvrAw7j5_vDOuQJXcmeZkNL-olmk0AL0Aqbo8I3hfvxh
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1261
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:44:26 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: d602a26b103645388c4e8a7aa3b93cca
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc7d50)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dca8b0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dc7d50)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3Oy1s-5cHL-Gb9mqjfVmMKceCDZGXdSNccORcadiep7IYiA-pyk4MHGMi9rczCJYK6plU9NRBYl81xlxbpn-IHNnK-rvrAw7j5_vDOuQJXcmeZkNL-olmk0AL0Aqbo8I3hfvxh
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1156
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:44:28 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 09fc97ddfefd47cc954c73df640ea03f
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd6be0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd6be0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd6be0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd6be0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dd6be0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd6be0)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dd6be0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149992 ms for 3 (transfer 0xaaaac2dd6be0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dd6be0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dd6be0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2WiRTI3Ov7RARNCanZw68aTXFhTrBJJZghKUWt8s2yK-PoDKSA8Wu3K-BWR9tHU4_W3ls2ZpNxB47Q5KQPxAmgJLOhjDJd1Kf8P9aq4D3D5HBIGlhUziWrNbL5Y-RpUWKgk_gX
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1174
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:44:36 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 8799d7e3f0bd452791fb667d10df7c86
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd6be0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db67f0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dd6be0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2WiRTI3Ov7RARNCanZw68aTXFhTrBJJZghKUWt8s2yK-PoDKSA8Wu3K-BWR9tHU4_W3ls2ZpNxB47Q5KQPxAmgJLOhjDJd1Kf8P9aq4D3D5HBIGlhUziWrNbL5Y-RpUWKgk_gX
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1265
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:44:38 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: a9a0b369413040139df37023d24195ac
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbcb10)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dbcb10)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dbcb10)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dbcb10)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dbcb10)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dbcb10)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dbcb10)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149991 ms for 3 (transfer 0xaaaac2dbcb10)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dbcb10)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dbcb10)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2MfStc8e9hTRFWwVnVFpduIy1lvIB4TFIGIubG3F-jZ8dznO_14jtz77efXELMqVvqWbGg64lxEVi7_nKo_X8DTA3wU6fm3E3zw5X9n1QTpdK-ki-tRfuNfIHrChes_-EAhP0k
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1118
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:44:48 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 122bbd31b9c747bc953b1001904bf78f
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbcb10)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dc4410 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dbcb10)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2MfStc8e9hTRFWwVnVFpduIy1lvIB4TFIGIubG3F-jZ8dznO_14jtz77efXELMqVvqWbGg64lxEVi7_nKo_X8DTA3wU6fm3E3zw5X9n1QTpdK-ki-tRfuNfIHrChes_-EAhP0k
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1424
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:44:50 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 9711b0ad269c4bbfb8861f63358eed31
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db5d30)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db5d30)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db5d30)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db5d30)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db5d30)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db5d30)
+* Expire in 3 ms for 1 (transfer 0xaaaac2db5d30)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149994 ms for 3 (transfer 0xaaaac2db5d30)
+* Expire in 200 ms for 4 (transfer 0xaaaac2db5d30)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2db5d30)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1RrcyTWYR-GZg8hZh2DNfJzqU-SEg1rfY9e0RcT45CtrCUtPFTof9WnbymcwV68Iq5joRsWH_DPT38S4HHc7L74OLq9RG2fAlhmIpC2Ay8OZMu-HQrMYT9-k94rsfUg1KXh4Fv
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1262
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:45:22 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: af59c9bff27d4036ad5da92243f4cf90
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db5d30)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dc48b0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2db5d30)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1RrcyTWYR-GZg8hZh2DNfJzqU-SEg1rfY9e0RcT45CtrCUtPFTof9WnbymcwV68Iq5joRsWH_DPT38S4HHc7L74OLq9RG2fAlhmIpC2Ay8OZMu-HQrMYT9-k94rsfUg1KXh4Fv
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1269
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:45:24 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: b10aefe3e94540e78c53b0ac93096798
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbe9c0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dbe9c0)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dbe9c0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149991 ms for 3 (transfer 0xaaaac2dbe9c0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dbe9c0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dbe9c0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0Gz0OLOgIlSpS-Q1FlJDylmkndZoUpHhbdHL1tCfy8otJGHwmjYixjsS5jbdTkJdVXlBNUFHOhshZQmomcKEpWLlf15uulVA9CiPMKTMUAKCBlUgz-Vr86JC1gQAwtdmCEMDNh
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1529
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:45:46 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: ef8f312aba6343568982450a15bccec0
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbe9c0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2ddb980 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dbe9c0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0Gz0OLOgIlSpS-Q1FlJDylmkndZoUpHhbdHL1tCfy8otJGHwmjYixjsS5jbdTkJdVXlBNUFHOhshZQmomcKEpWLlf15uulVA9CiPMKTMUAKCBlUgz-Vr86JC1gQAwtdmCEMDNh
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1019
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:45:47 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 7eb26d2930b3401a9de14ab1237901e2
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db16c0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 6 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 9 ms for 1 (transfer 0xaaaac2db16c0)
+* Expire in 11 ms for 1 (transfer 0xaaaac2db16c0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149982 ms for 3 (transfer 0xaaaac2db16c0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2db16c0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2db16c0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1bQ-1HPr1RF8LskwcWvU5qHQZqKd7ysvucXWbNNELR21tx_XlIEJWor-urcVyZfwe511wS6Z3UptP-qKXbRn5On7Ts9ehDP4iUeLjIvVknReF-jVv9PgPdYuG0L4f59dYwYm1U
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1148
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:48:35 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: ce1079051b954e37b3c1a32fc407520d
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db16c0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dc3750 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2db16c0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1bQ-1HPr1RF8LskwcWvU5qHQZqKd7ysvucXWbNNELR21tx_XlIEJWor-urcVyZfwe511wS6Z3UptP-qKXbRn5On7Ts9ehDP4iUeLjIvVknReF-jVv9PgPdYuG0L4f59dYwYm1U
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1093
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:48:37 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: b5700e33f7514892bee1b05ddba22b4b
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dce790)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dce790)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dce790)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149985 ms for 3 (transfer 0xaaaac2dce790)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dce790)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dce790)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1022ZBsdlEAJmjgVRLv7Xc-xE8jrXAI7I6psFUmHFyZ5ckhmZ2wm3mHvYaGA4lpoh9BaCKp84E0SqdHdiqN6M72tGvX-_tKzUzErWH0NRYaKMh3sBvyjsNyH14bK8C_LbhjYVg
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1035
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:48:48 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 31058ddae5c2495da8ffedd880077411
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dce790)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dd1ab0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dce790)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1022ZBsdlEAJmjgVRLv7Xc-xE8jrXAI7I6psFUmHFyZ5ckhmZ2wm3mHvYaGA4lpoh9BaCKp84E0SqdHdiqN6M72tGvX-_tKzUzErWH0NRYaKMh3sBvyjsNyH14bK8C_LbhjYVg
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1072
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:48:49 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: b0de96d16a0843ed9ac6b113ee381120
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc69b0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc69b0)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dc69b0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149985 ms for 3 (transfer 0xaaaac2dc69b0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dc69b0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dc69b0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1FLIKxvi-NtMdUtR3GbemdQ-23iI7BPiREc4TzSHDkIgyBW03IgISor6LNhca9sQv7iwecOQsCeYcNtZt28vquVImTYzXHf8tqblyJ8ExSXztLzfKljxv9AVCmpQDaiumcp-QU
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1306
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:49:03 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: f1037d3f823d409cb0eec389ca29e78e
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc69b0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2d95470 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dc69b0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1FLIKxvi-NtMdUtR3GbemdQ-23iI7BPiREc4TzSHDkIgyBW03IgISor6LNhca9sQv7iwecOQsCeYcNtZt28vquVImTYzXHf8tqblyJ8ExSXztLzfKljxv9AVCmpQDaiumcp-QU
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1276
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:49:05 GMT
+< server: envoy
+< content-length: 1560
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: ff4d53dd661147b58e13f2bee9faf12a
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2ddf250)
+* Expire in 1 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 1 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 2 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 3 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 3 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 4 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 5 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 6 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 8 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 8 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 9 ms for 1 (transfer 0xaaaac2ddf250)
+* Expire in 10 ms for 1 (transfer 0xaaaac2ddf250)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149984 ms for 3 (transfer 0xaaaac2ddf250)
+* Expire in 200 ms for 4 (transfer 0xaaaac2ddf250)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2ddf250)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3-NfTOvcXLoi_kEQNM7iVhuWnmSInXnlg6jB76loV2RM2b-RHzBEyx9tJ3pW6cn2u2bQx59-VfVbS6A7Re51kRwlP2sH3pI85XP8Hoht02EGmPGbMPnyjBn_aBacOANCHLZTxO
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1737
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:50:19 GMT
+< server: envoy
+< content-length: 1694
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 0b847042aa7a4b9797fc5ae52859c05c
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2ddf250)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2d954b0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2ddf250)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3-NfTOvcXLoi_kEQNM7iVhuWnmSInXnlg6jB76loV2RM2b-RHzBEyx9tJ3pW6cn2u2bQx59-VfVbS6A7Re51kRwlP2sH3pI85XP8Hoht02EGmPGbMPnyjBn_aBacOANCHLZTxO
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1857
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:50:22 GMT
+< server: envoy
+< content-length: 1694
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 5fdd8175d25945c5973b0b00717d389e
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2ddc880)
+* Expire in 1 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 1 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 2 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 2 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 3 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 4 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 4 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 5 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 8 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 7 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 7 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 8 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 8 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 9 ms for 1 (transfer 0xaaaac2ddc880)
+* Expire in 11 ms for 1 (transfer 0xaaaac2ddc880)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149981 ms for 3 (transfer 0xaaaac2ddc880)
+* Expire in 200 ms for 4 (transfer 0xaaaac2ddc880)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2ddc880)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1X1KOVrImiP96-qe38iDiQ4OLNM99TGGs4q5MQJM93iVluDMAq32SLYmbWGC4BLJKHPfmwwiA_2oDIG7EvN9NX2YG22ytG7M0-7kOgMLnBhZ0midOyY1AxhiRFRLtN0y7jiGbH
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1665
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:51:18 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 1f8b1f7116674ab7a949964d6d5e0da8
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2ddc880)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db0230 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2ddc880)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1X1KOVrImiP96-qe38iDiQ4OLNM99TGGs4q5MQJM93iVluDMAq32SLYmbWGC4BLJKHPfmwwiA_2oDIG7EvN9NX2YG22ytG7M0-7kOgMLnBhZ0midOyY1AxhiRFRLtN0y7jiGbH
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1292
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:51:20 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 156e47e64ef74c3bb42d6ee1f4386fbb
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd5610)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd5610)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd5610)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd5610)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149993 ms for 3 (transfer 0xaaaac2dd5610)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dd5610)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dd5610)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0zIKPwhFPtYTBIXXLECvt9tUtGtX1cipDUPhXh49wCXn6Elz-QmExvImJDbuCRjsEkfbMVjpky-LGgrifgqB1jevXocHsa8bQXaSSycfk31ErGwBjSn4YPSxM2PHuc5b-7m3sq
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1520
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:51:41 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 12f4bc6194ed46fcba10a4ba45120365
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd5610)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db8700 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dd5610)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0zIKPwhFPtYTBIXXLECvt9tUtGtX1cipDUPhXh49wCXn6Elz-QmExvImJDbuCRjsEkfbMVjpky-LGgrifgqB1jevXocHsa8bQXaSSycfk31ErGwBjSn4YPSxM2PHuc5b-7m3sq
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1041
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 16:51:42 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 8612e424c8934e8c81da84c0e283f08b
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc8520)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dc8520)
+* Expire in 11 ms for 1 (transfer 0xaaaac2dc8520)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149982 ms for 3 (transfer 0xaaaac2dc8520)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dc8520)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dc8520)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2f9BK8NDIMM4JLUvIAJ7AVrJUpFldD2QBztYs0ByGylu6kcVGqBTmsdOx0v_A6b0iItwUIv5mYV1Ux8US1R42lGcSZosSZicDFOYVWmab2TFuLkraAqP0MMUb_-qUVu5COWXEL
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1099
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:04:53 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: ec4f61f262cf4d4387a8f77417c53a32
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc8520)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db6050 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dc8520)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2f9BK8NDIMM4JLUvIAJ7AVrJUpFldD2QBztYs0ByGylu6kcVGqBTmsdOx0v_A6b0iItwUIv5mYV1Ux8US1R42lGcSZosSZicDFOYVWmab2TFuLkraAqP0MMUb_-qUVu5COWXEL
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1081
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:04:55 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 6d777d4a29894bbaa07c66bd69b76c3d
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc95f0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 16 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 11 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 11 ms for 1 (transfer 0xaaaac2dc95f0)
+* Expire in 12 ms for 1 (transfer 0xaaaac2dc95f0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149981 ms for 3 (transfer 0xaaaac2dc95f0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dc95f0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dc95f0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY21ZEkcaaeznD43uhaTN4q8XMLb_tG_XTzSRUWb0eePnqBdPyvpljZYThND_vpMaGxsgeDGc4Ye37QB4dHtuIBOIrdRYXGIOB1upQVHbCAwjfMzj41RCUYp389DkueJ-DtUFqhs
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 998
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:06:43 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 3ab1cc2d5ccd4b1889498981c5ece3b5
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc95f0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dc1120 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dc95f0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY21ZEkcaaeznD43uhaTN4q8XMLb_tG_XTzSRUWb0eePnqBdPyvpljZYThND_vpMaGxsgeDGc4Ye37QB4dHtuIBOIrdRYXGIOB1upQVHbCAwjfMzj41RCUYp389DkueJ-DtUFqhs
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1042
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:06:44 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: ee50a15c0c0149cca10c6f9b28b20808
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2b5d0a0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 5 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 7 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2b5d0a0)
+* Expire in 10 ms for 1 (transfer 0xaaaac2b5d0a0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149983 ms for 3 (transfer 0xaaaac2b5d0a0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2b5d0a0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2b5d0a0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2NYZ97IVOcUYWUaR_fCo4sjDxs06bQTaaI1orReQzcOF2cFxnxg-8zEYABU-5o8NKOLWOtPYjKgwAoKpr3RB8pHCRkl9xSdIBcvAyiiRh9ZvY6-p2tZ1LnU7P0A45OXLaopdNq
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1791
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:25:06 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: eeb93a0947544517a0d470e3c45a606e
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2b5d0a0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2daf6b0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2b5d0a0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2NYZ97IVOcUYWUaR_fCo4sjDxs06bQTaaI1orReQzcOF2cFxnxg-8zEYABU-5o8NKOLWOtPYjKgwAoKpr3RB8pHCRkl9xSdIBcvAyiiRh9ZvY6-p2tZ1LnU7P0A45OXLaopdNq
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 844
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:25:07 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 75ec1336eddb4fb2adcb65640bf8ea06
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc5520)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dc5520)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dc5520)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149984 ms for 3 (transfer 0xaaaac2dc5520)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dc5520)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dc5520)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3rWNQ8SrIBfdmTXST6SO5ikzB0iBzvB4pYU48xZ5PO3bdHAGd0cEZdaieppwCjKJXnPYBnjfJq4GrwdmCS_67oejCDjlhEnkIrSJo8Eul3BrFdZ04dcIVJ-iB1CgK4RidapsOl
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1301
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:26:42 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: a2429af8d91943d1ad6f12c988f4d382
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc5520)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db6570 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dc5520)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3rWNQ8SrIBfdmTXST6SO5ikzB0iBzvB4pYU48xZ5PO3bdHAGd0cEZdaieppwCjKJXnPYBnjfJq4GrwdmCS_67oejCDjlhEnkIrSJo8Eul3BrFdZ04dcIVJ-iB1CgK4RidapsOl
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 4440
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:26:47 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 2563aab8483e445fb66c950ee3862e2f
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dddf90)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 10 ms for 1 (transfer 0xaaaac2dddf90)
+* Expire in 10 ms for 1 (transfer 0xaaaac2dddf90)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149983 ms for 3 (transfer 0xaaaac2dddf90)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dddf90)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dddf90)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2nb6qdAdQxsVD1RRADAkmEWu8ARvl1FCn-AvbleM8UGQmvCdNIj1lkaoXgVS_bP16YKZYkIgs7SW_ShpvAnecfUdkAkmHB7N_bvSctaawsAZlgPauUGnk0thhDJuoMR3oChs6b
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1420
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:27:01 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 93c660fb0fae4e07b22ef8f17878a9da
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dddf90)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db6d50 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dddf90)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2nb6qdAdQxsVD1RRADAkmEWu8ARvl1FCn-AvbleM8UGQmvCdNIj1lkaoXgVS_bP16YKZYkIgs7SW_ShpvAnecfUdkAkmHB7N_bvSctaawsAZlgPauUGnk0thhDJuoMR3oChs6b
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1088
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:27:02 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: c7de5553cc8f46fea2eda8e36997bc25
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd2e70)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd2e70)
+* Expire in 0 ms for 1 (transfer 0xaaaac2dd2e70)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd2e70)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd2e70)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dd2e70)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd2e70)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149993 ms for 3 (transfer 0xaaaac2dd2e70)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dd2e70)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dd2e70)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1QBRb1xyuQOFhDmJ95eYFUMvP2DLgesWNHBxGrF7OsWB-pY6D-qDrWaR9EkXOkyZNcghvcb-CU6VNL1oRHONIL4kfO2RsTMciiftr6j9owG2mglpNsQEYMJSbdba5AxcsTL7y6
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1496
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:27:25 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 775c58d901cf4a9ab6b90ed0cf79a9ab
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd2e70)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2da4130 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dd2e70)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1QBRb1xyuQOFhDmJ95eYFUMvP2DLgesWNHBxGrF7OsWB-pY6D-qDrWaR9EkXOkyZNcghvcb-CU6VNL1oRHONIL4kfO2RsTMciiftr6j9owG2mglpNsQEYMJSbdba5AxcsTL7y6
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1354
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:27:27 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: e55c227ec08f4eb5a513d875bd20550f
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db96e0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 5 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 6 ms for 1 (transfer 0xaaaac2db96e0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149989 ms for 3 (transfer 0xaaaac2db96e0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2db96e0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2db96e0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1hHV7wW80JyoyooPZh3ukFYMD9NiqfhEoTWTF1AWlB9An-FPReUiGC0gig6Bu30D2eQqq25MwDzPvLKPX83AF9mhattqOy33iW6jnh8SjhStqVylAOphFBHmHvjMkvMiTyOn-V
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 2097
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:28:07 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 50352e0ca9b1439da9d9544f91ed0ea4
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db96e0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2ddbf30 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2db96e0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1hHV7wW80JyoyooPZh3ukFYMD9NiqfhEoTWTF1AWlB9An-FPReUiGC0gig6Bu30D2eQqq25MwDzPvLKPX83AF9mhattqOy33iW6jnh8SjhStqVylAOphFBHmHvjMkvMiTyOn-V
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1345
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:28:08 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 2dc4805d6f364e118c3845872be67c4e
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd12d0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd12d0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd12d0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd12d0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd12d0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd12d0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd12d0)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dd12d0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd12d0)
+* Expire in 9 ms for 1 (transfer 0xaaaac2dd12d0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149985 ms for 3 (transfer 0xaaaac2dd12d0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dd12d0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dd12d0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY175ibfHYU4TMX_CkMg_2kRujsXL0vVkdgJIEzkSIM_Qkm47Tm9N6spLLO8LHQgn5WOUwtvg6cSlRpuKUg6OORm-KeOB2oGV0ghZShztR5_l2D2SzC4bgRAG2pm29FgzEs5-Mot
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1547
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:36:44 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 67a2abd5a50e4db5978b4cd9b6f0b3ba
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd12d0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2d9f590 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dd12d0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY175ibfHYU4TMX_CkMg_2kRujsXL0vVkdgJIEzkSIM_Qkm47Tm9N6spLLO8LHQgn5WOUwtvg6cSlRpuKUg6OORm-KeOB2oGV0ghZShztR5_l2D2SzC4bgRAG2pm29FgzEs5-Mot
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1356
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:36:46 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 7b67f7422139416b9ec39e644a26cfb0
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db96e0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 6 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 7 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 8 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 9 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 9 ms for 1 (transfer 0xaaaac2db96e0)
+* Expire in 12 ms for 1 (transfer 0xaaaac2db96e0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149981 ms for 3 (transfer 0xaaaac2db96e0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2db96e0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2db96e0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0rQ3hY_itWcdTvvBaMbnwlpanBqF_MBULto1n5KbIrapWoZ6xdbMTMcn64hSQ0j8DbxqE2RsamljWsrtQ5N06lZNJXQm7CTO5SPi8GfkLFQJ6-1r6sveDMLYWC6XpZ6voYyc9O
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1153
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:38:51 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 2166becb7f3e44b799ec4fcfe2e5b84f
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db96e0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2d92cb0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2db96e0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0rQ3hY_itWcdTvvBaMbnwlpanBqF_MBULto1n5KbIrapWoZ6xdbMTMcn64hSQ0j8DbxqE2RsamljWsrtQ5N06lZNJXQm7CTO5SPi8GfkLFQJ6-1r6sveDMLYWC6XpZ6voYyc9O
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 986
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:38:52 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: db24b51a29874113a31a4e4bdaa8e3c9
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbc430)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dbc430)
+* Expire in 0 ms for 1 (transfer 0xaaaac2dbc430)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dbc430)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dbc430)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dbc430)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dbc430)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149994 ms for 3 (transfer 0xaaaac2dbc430)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dbc430)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dbc430)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2nba6iN_3erewQTpi4Xy1D9iEs5msFoL4PVaU3Rkzud5tJGKHadVeEo_fgGAxn2w2kBAn5FALhDvOFFOTpPXyIpB5pL9QhnlJjIzN3oFPDgdzGbTxZ7r_-4h_Xo_rNqw_1ylQn
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1190
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:39:14 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 9b031054401c48ed98640ed8068ffbd3
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbc430)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dcbd30 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dbc430)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY2nba6iN_3erewQTpi4Xy1D9iEs5msFoL4PVaU3Rkzud5tJGKHadVeEo_fgGAxn2w2kBAn5FALhDvOFFOTpPXyIpB5pL9QhnlJjIzN3oFPDgdzGbTxZ7r_-4h_Xo_rNqw_1ylQn
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1293
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:39:15 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 41b119a6d3e641f098d1417f40809cf3
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc4c50)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 0 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 6 ms for 1 (transfer 0xaaaac2dc4c50)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dc4c50)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149986 ms for 3 (transfer 0xaaaac2dc4c50)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dc4c50)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dc4c50)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1LF07oZQ8WTF1iM4kWFnPMpdhOjkbOkWxtsfQCpYKwff9wxt7QxXALuTI86QI2eM7wRZ4iidxTLCiyczfNxRUACbI0uR-I1C1KwDJj3_tIAMjjK04F5i2HCoJewrhSH9Ld8nis
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 982
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:40:46 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: fd8af12ef5674c619e395008f7604498
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dc4c50)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2c41960 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dc4c50)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1LF07oZQ8WTF1iM4kWFnPMpdhOjkbOkWxtsfQCpYKwff9wxt7QxXALuTI86QI2eM7wRZ4iidxTLCiyczfNxRUACbI0uR-I1C1KwDJj3_tIAMjjK04F5i2HCoJewrhSH9Ld8nis
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1056
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:40:48 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: bc583034987540b3bbae1a95e49d9e8d
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2da7c40)
+* Expire in 1 ms for 1 (transfer 0xaaaac2da7c40)
+* Expire in 1 ms for 1 (transfer 0xaaaac2da7c40)
+* Expire in 2 ms for 1 (transfer 0xaaaac2da7c40)
+* Expire in 3 ms for 1 (transfer 0xaaaac2da7c40)
+* Expire in 4 ms for 1 (transfer 0xaaaac2da7c40)
+* Expire in 5 ms for 1 (transfer 0xaaaac2da7c40)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149992 ms for 3 (transfer 0xaaaac2da7c40)
+* Expire in 200 ms for 4 (transfer 0xaaaac2da7c40)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2da7c40)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1yK4pG2zGVRjKasqvmYJG0A3zS6EASSLEx3lW8HX3hOaIeOlP-fRuQqWGxwzW-a3Cq0Tea_L15TxgHvFwFhmUgOinszenJ66F8XfNby_vPqtYSedAkYa5tAj7BTdc5XNI-d3Cq
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1052
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:41:09 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 7216413ceb8c4999aa8f097f54d369dd
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2da7c40)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db98f0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2da7c40)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY1yK4pG2zGVRjKasqvmYJG0A3zS6EASSLEx3lW8HX3hOaIeOlP-fRuQqWGxwzW-a3Cq0Tea_L15TxgHvFwFhmUgOinszenJ66F8XfNby_vPqtYSedAkYa5tAj7BTdc5XNI-d3Cq
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1046
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:41:11 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 14be5bff72ee410bb4074706fe8a749d
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dcc6f0)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dcc6f0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dcc6f0)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dcc6f0)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dcc6f0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dcc6f0)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dcc6f0)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149992 ms for 3 (transfer 0xaaaac2dcc6f0)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dcc6f0)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dcc6f0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3jrDocs3LiXUHJYZ-4GhbJdu4iU7zfNudizR0XkedGwUi4fuhetCA0y23eIQVerrPuA2d_09VjZfA1q4lZ98Aazzi3IDReEUvDs6qW7DnmM0xJcsxvMZmHm8jxgyAVu9IH3SIn
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1046
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:41:20 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 8d158df739324468a10e7fc8406953aa
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dcc6f0)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2db7ad0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dcc6f0)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3jrDocs3LiXUHJYZ-4GhbJdu4iU7zfNudizR0XkedGwUi4fuhetCA0y23eIQVerrPuA2d_09VjZfA1q4lZ98Aazzi3IDReEUvDs6qW7DnmM0xJcsxvMZmHm8jxgyAVu9IH3SIn
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1113
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:41:22 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 0b8163a801754504aeab00e9dc32f9c3
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd7a10)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 2 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 3 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 5 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 7 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 8 ms for 1 (transfer 0xaaaac2dd7a10)
+* Expire in 11 ms for 1 (transfer 0xaaaac2dd7a10)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149982 ms for 3 (transfer 0xaaaac2dd7a10)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dd7a10)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dd7a10)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0puTKlliUdZLUVMPkbwKf2ZP_jyV3VaE6S5pEd1NBhWFlvAytMCH7uMDrvnpiYL8lxdsvGjklxgehvDhFaidbvafLaRDWwQF53_MCbJBIA-JaLdhghhEajL-uBAWIdRchaLGzY
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1357
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:41:35 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 474c91235b5e410e8dc421f7b22a91cd
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dd7a10)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2ddac70 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dd7a10)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY0puTKlliUdZLUVMPkbwKf2ZP_jyV3VaE6S5pEd1NBhWFlvAytMCH7uMDrvnpiYL8lxdsvGjklxgehvDhFaidbvafLaRDWwQF53_MCbJBIA-JaLdhghhEajL-uBAWIdRchaLGzY
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1372
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:41:37 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 5244a4230f534523b224d9c939d398d6
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2df5100)
+* Expire in 1 ms for 1 (transfer 0xaaaac2df5100)
+* Expire in 1 ms for 1 (transfer 0xaaaac2df5100)
+* Expire in 2 ms for 1 (transfer 0xaaaac2df5100)
+* Expire in 3 ms for 1 (transfer 0xaaaac2df5100)
+* Expire in 4 ms for 1 (transfer 0xaaaac2df5100)
+* Expire in 5 ms for 1 (transfer 0xaaaac2df5100)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149991 ms for 3 (transfer 0xaaaac2df5100)
+* Expire in 200 ms for 4 (transfer 0xaaaac2df5100)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2df5100)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3yYfZuUc-KH_jGghsCJ817eTBB7CxktizqJ1P5ro-NbQ_UrH9124fJkQJ1RTJ3toxF2mCAVwmJWY_EyokZQ14RUhXFYWR7dbojdbtXqR7-Wae0PVc0L3zIxFzIdrURNhf8hH-_
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1393
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:42:14 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: da9d68a423214a14953ca4acde6ace6b
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2df5100)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dd74c0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2df5100)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3yYfZuUc-KH_jGghsCJ817eTBB7CxktizqJ1P5ro-NbQ_UrH9124fJkQJ1RTJ3toxF2mCAVwmJWY_EyokZQ14RUhXFYWR7dbojdbtXqR7-Wae0PVc0L3zIxFzIdrURNhf8hH-_
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1041
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:42:15 GMT
+< server: envoy
+< content-length: 1717
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 0bf472a3420a43e5ab727f971cf6d027
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbc430)
+* Expire in 1 ms for 1 (transfer 0xaaaac2dbc430)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dbc430)
+* Expire in 4 ms for 1 (transfer 0xaaaac2dbc430)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149992 ms for 3 (transfer 0xaaaac2dbc430)
+* Expire in 200 ms for 4 (transfer 0xaaaac2dbc430)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2dbc430)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY13nvMPiQsvYv-njzlBRXXQbDnBsbe2fRZ-15yGtrqU1anaaI2RZRN1SrDV2FRwhFpUHxjt1cyT1dwXuxLNdOvFVNGEXdAfNWiwc8V46YAOQLhGZ5R7q4LEHiONbW_ou9cIWMGA
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1736
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:42:24 GMT
+< server: envoy
+< content-length: 1694
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 001ffac634ae418aada93a2130de3bb0
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2dbc430)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2d98c50 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2dbc430)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY13nvMPiQsvYv-njzlBRXXQbDnBsbe2fRZ-15yGtrqU1anaaI2RZRN1SrDV2FRwhFpUHxjt1cyT1dwXuxLNdOvFVNGEXdAfNWiwc8V46YAOQLhGZ5R7q4LEHiONbW_ou9cIWMGA
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1118
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:42:25 GMT
+< server: envoy
+< content-length: 1694
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: cd4544b710804ec3a119e6db73657371
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db9a20)
+* Expire in 1 ms for 1 (transfer 0xaaaac2db9a20)
+* Expire in 0 ms for 1 (transfer 0xaaaac2db9a20)
+* Expire in 2 ms for 1 (transfer 0xaaaac2db9a20)
+*   Trying 162.125.5.19...
+* TCP_NODELAY set
+* Expire in 149996 ms for 3 (transfer 0xaaaac2db9a20)
+* Expire in 200 ms for 4 (transfer 0xaaaac2db9a20)
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* ALPN, offering h2
+* ALPN, offering http/1.1
+* successfully set certificate verify locations:
+*   CAfile: none
+  CApath: /etc/ssl/certs
+* SSL connection using TLSv1.2 / ECDHE-RSA-CHACHA20-POLY1305
+* ALPN, server accepted to use h2
+* Server certificate:
+*  subject: C=US; ST=California; L=San Francisco; O=Dropbox, Inc; CN=api.dropboxapi.com
+*  start date: Sep 16 00:00:00 2022 GMT
+*  expire date: Oct 11 23:59:59 2023 GMT
+*  subjectAltName: host "api.dropboxapi.com" matched cert's "api.dropboxapi.com"
+*  issuer: C=US; O=DigiCert Inc; CN=DigiCert TLS RSA SHA256 2020 CA1
+*  SSL certificate verify ok.
+* Using HTTP2, server supports multi-use
+* Connection state changed (HTTP/2 confirmed)
+* Copying HTTP/2 data in stream buffer to connection buffer after upgrade: len=0
+* Using Stream ID: 1 (easy handle 0xaaaac2db9a20)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3m-g87cnQ5VclA4JJGpV5GRyatJFO5jFIJZ7FS6sAHIWdo-pYMPSiFGYlNQBaCjiOw6JUUoaVYLdEHUBlgPrS-i1iWJZDk52BIn_Phm1mFGynplWbN24CKcE5dCV9LTfSNER8H
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+* Connection state changed (MAX_CONCURRENT_STREAMS == 128)!
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1187
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:42:35 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: d0a72df883f94c30b05de93c9dfb5185
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+* Expire in 0 ms for 6 (transfer 0xaaaac2db9a20)
+* Found bundle for host api.dropboxapi.com: 0xaaaac2dd8dd0 [can multiplex]
+* Re-using existing connection! (#0) with host api.dropboxapi.com
+* Connected to api.dropboxapi.com (162.125.5.19) port 443 (#0)
+* Using Stream ID: 3 (easy handle 0xaaaac2db9a20)
+> POST /2/sharing/create_shared_link_with_settings HTTP/2
+Host: api.dropboxapi.com
+Accept: */*
+Authorization: Bearer sl.BY3m-g87cnQ5VclA4JJGpV5GRyatJFO5jFIJZ7FS6sAHIWdo-pYMPSiFGYlNQBaCjiOw6JUUoaVYLdEHUBlgPrS-i1iWJZDk52BIn_Phm1mFGynplWbN24CKcE5dCV9LTfSNER8H
+Content-Type: application/json
+Content-Length: 36
+
+* We are completely uploaded and fine
+< HTTP/2 200 
+< cache-control: no-cache
+< x-content-type-options: nosniff
+< x-frame-options: SAMEORIGIN
+< x-server-response-time: 1091
+< content-type: application/json
+< accept-encoding: identity,gzip
+< date: Tue, 14 Feb 2023 17:42:37 GMT
+< server: envoy
+< content-length: 1683
+< vary: Accept-Encoding
+< x-dropbox-response-origin: far_remote
+< x-dropbox-request-id: 9427441c1fd646428b1d15ae47a9692e
+< 
+* Connection #0 to host api.dropboxapi.com left intact
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Feb 17 20:06:35.231616 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Feb 17 20:06:35.232180 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Feb 22 20:52:34.452887 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Feb 22 20:52:34.453507 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Feb 22 20:53:20.356124 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.5. Set the 'ServerName' directive globally to suppress this message
+[Mon Feb 27 15:53:38.803132 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Feb 27 15:53:38.803640 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Feb 27 15:53:41.422786 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.4. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 28 18:12:34.530614 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Mar 28 18:12:34.531221 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 28 18:13:19.476660 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 28 18:13:26.047730 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Mar 28 18:13:26.048468 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Mar 28 18:14:23.803300 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.96.5. Set the 'ServerName' directive globally to suppress this message
+[Tue Mar 28 18:15:00.820635 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Mar 28 18:15:00.821332 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.96.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 29 14:44:05.336502 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Mar 29 14:44:05.337246 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Mar 29 14:44:38.677971 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.5. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 29 14:44:47.379249 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Mar 29 14:44:47.379921 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Wed Mar 29 14:45:16.172323 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Mar 29 14:45:47.268761 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Mar 29 14:45:47.269491 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 16:53:20.903587 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 16:53:20.904500 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:08:31.339194 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:09:23.881816 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:09:23.882943 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:09:29.677532 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.19.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:09:39.028432 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:09:39.028755 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:13:33.745546 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.20.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:13:38.307096 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:13:38.307962 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:14:25.563454 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.23.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:14:35.298031 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:14:35.298824 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:16:12.696324 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.24.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:16:16.779075 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:16:16.780933 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:21:15.825464 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.25.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:21:25.024054 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:21:25.024564 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:24:29.305256 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.26.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:24:33.514621 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:24:33.514962 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:28:02.656700 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:28:06.822196 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:28:06.823768 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:29:14.141686 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.28.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:29:18.377472 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:29:18.379049 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:34:17.638438 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.29.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:34:22.085938 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:34:22.086256 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:35:18.295351 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.30.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:35:22.084594 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:35:22.085296 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:48:40.699956 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.31.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:49:24.405283 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:49:24.405882 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:57:36.498155 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:57:40.788754 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:57:40.790053 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 20:58:45.113387 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.16.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 20:58:50.287447 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 20:58:50.288061 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 21:00:10.427035 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.32.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 21:00:14.915799 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 21:00:14.916768 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 21:09:27.804333 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.48.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 21:09:47.142632 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 21:09:47.143223 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 21:10:24.795306 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.80.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 21:10:28.654777 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 21:10:28.655568 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 21:11:15.622307 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.96.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 21:11:19.519084 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 21:11:19.519656 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 21:11:46.049582 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.112.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 21:11:51.485906 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 21:11:51.486870 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 21:13:15.408621 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.128.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 21:13:23.484508 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 21:13:23.486446 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 21:19:19.141468 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.144.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 21:19:25.493268 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 21:19:25.493970 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 21:22:17.562439 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.160.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 21:22:23.160314 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 21:22:23.161001 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Mar 30 21:26:43.869199 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 192.168.176.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Mar 30 21:26:47.859338 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Mar 30 21:26:47.860042 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Mar 31 01:55:43.894765 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Fri Mar 31 15:28:48.616779 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Mar 31 15:28:48.617434 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Apr 01 00:08:19.459129 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 01 19:43:45.016764 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Sat Apr 01 19:43:45.017435 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Apr 01 23:01:55.057382 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 03 15:50:41.123035 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Apr 03 15:50:41.124924 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 04 17:37:08.185754 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Apr 04 17:37:08.186640 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Apr 04 20:22:10.425488 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Apr 05 19:42:39.659676 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Apr 05 19:42:39.660168 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 10 14:57:17.936067 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Apr 10 14:57:17.936808 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue Apr 11 01:24:41.755112 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 13 20:27:58.434526 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Apr 13 20:27:58.435286 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 15 18:26:45.381813 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Sat Apr 15 18:26:45.383080 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Apr 15 20:04:36.335386 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Sat Apr 15 20:04:41.317948 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Sat Apr 15 20:04:41.318728 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Apr 15 23:36:33.341946 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Apr 17 15:27:07.184134 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Apr 17 15:27:07.184788 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Tue Apr 18 16:49:22.009655 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue Apr 18 16:49:22.010482 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Wed Apr 19 15:24:34.984044 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Apr 19 15:24:34.985414 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Thu Apr 20 00:13:17.361895 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Apr 20 21:00:25.047111 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Apr 20 21:00:25.047814 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Tue May 02 16:50:27.763877 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Tue May 02 16:50:27.764880 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Tue May 02 16:51:21.104571 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.27.0.4. Set the 'ServerName' directive globally to suppress this message
+[Mon Aug 14 18:26:20.841124 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Mon Aug 14 18:26:20.841544 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Aug 14 19:47:33.622274 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Wed Oct 04 22:02:31.191840 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Wed Oct 04 22:02:31.192910 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 05 16:52:59.862595 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Oct 05 16:52:59.864909 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 06 21:17:49.412096 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Oct 06 21:17:49.412983 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 06 22:49:16.282854 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Oct 06 22:49:16.283276 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Fri Oct 06 22:53:10.914625 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Oct 06 22:53:16.273918 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Fri Oct 06 22:53:16.274378 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Sat Oct 07 01:57:01.641076 2023] [mpm_prefork:notice] [pid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.4. Set the 'ServerName' directive globally to suppress this message
+[Thu Oct 12 22:59:36.926670 2023] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.38 (Debian) PHP/8.1.14 OpenSSL/1.1.1n configured -- resuming normal operations
+[Thu Oct 12 22:59:36.927253 2023] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
